@@ -5,7 +5,6 @@ let btns=["yellow","red","purple","green"];
 
 let started=false;
 let level=0;
-let highscore=0;
 
 let h2=document.querySelector("h2");
 let hgsc=document.querySelector("#h2");
