@@ -88,3 +88,5 @@ function reset(){
     level=0;
 }
 
+console.log("Hello");
+
